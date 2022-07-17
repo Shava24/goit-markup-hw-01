@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\Desktop\\resume"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-01"
+  }
+}
